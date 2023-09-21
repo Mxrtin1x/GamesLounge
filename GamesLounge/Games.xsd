@@ -1,0 +1,21 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="product">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="games" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+              <xs:element type="xs:string" name="gameCode"/>
+              <xs:element type="xs:string" name="gameName"/>
+              <xs:element type="xs:string" name="gameCategory"/>
+              <xs:element type="xs:string" name="gameDescription"/>
+              <xs:element type="xs:int" name="gameQuantity"/>
+              <xs:element type="xs:int" name="gamePrice"/>
+              <xs:element type="xs:string" name="gameImage"/>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

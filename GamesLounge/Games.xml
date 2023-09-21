@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Games.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<product>
+        <games>
+                <gameCode>#000-01</gameCode> 
+                <gameName>Grand Theft Auto 5</gameName>
+                <gameCategory>Category:Open World</gameCategory> 
+                <gameDescription>Open world game, with numerous activites and missions to do and acomplish. With the choice of third or first person views.</gameDescription>
+                <gameQuantity>360</gameQuantity>
+                <gamePrice>40</gamePrice>
+                <gameImage>GTA.jpg</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-02</gameCode> 
+                <gameName>Call Of Duty Modern Warfare (2019)</gameName>
+                <gameCategory>Category:First person shooter</gameCategory> 
+                <gameDescription>First-person shooter game with campaign and multiplayer mode to play with friends or people accros the world.</gameDescription>
+                <gameQuantity>300</gameQuantity>
+                <gamePrice>55</gamePrice>
+                <gameImage>MW19.jpf</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-03</gameCode> 
+                <gameName>Minecraft</gameName>
+                <gameCategory>Category:Sandbox survival</gameCategory> 
+                <gameDescription>Free roam open world game where you can create anything you desire, survive tough conditions or enjoy a world with a peaceful environment.</gameDescription>
+                <gameQuantity>200</gameQuantity>
+                <gamePrice>20</gamePrice>
+                <gameImage>MINECRAFT.jpg</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-04</gameCode> 
+                <gameName>Fortnite</gameName>
+                <gameCategory>Category:Battle Royale</gameCategory> 
+                <gameDescription>Battle royale game in which you eliminate other opponents and be last to survive and get a "Victory Royale".</gameDescription>
+                <gameQuantity>999</gameQuantity>
+                <gamePrice>0</gamePrice>
+                <gameImage>FORTNITE.jpg</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-05</gameCode> 
+                <gameName>Fall Guys</gameName>
+                <gameCategory>Category:Survival</gameCategory> 
+                <gameDescription>Survival game in which you qualify through rounds in adeqate time to get to the next round untill the final in chich you can win a "Crown".</gameDescription>
+                <gameQuantity>279</gameQuantity>
+                <gamePrice>5</gamePrice>
+                <gameImage>FALL GUYS.jpg</gameImage>
+        </games>
+        
+        <games>
+                <gameCode>#000-06</gameCode>
+                <gameName>Among Us</gameName>
+                <gameCategory>Category:Party social deduction</gameCategory> 
+                <gameDescription>A fun game in which there are imposters and crew members and the goal is to find the imposter(s) before the crew is eliminated.</gameDescription>
+                <gameQuantity>150</gameQuantity>
+                <gamePrice>3</gamePrice>
+                <gameImage>AMONG US.jps</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-08</gameCode> 
+                <gameName>Geometry Dash</gameName>
+                <gameCategory>Category:Platformer</gameCategory> 
+                <gameDescription>A 2d platformer game that involves dodging geometric obstacles, via a series of levels that you can complete.</gameDescription>
+                <gameQuantity>170</gameQuantity>
+                <gamePrice>4</gamePrice>
+                <gameImage>GEOMETRYDASH.png</gameImage>
+        </games>
+
+        <games>
+                <gameCode>game#000-09</gameCode> 
+                <gameName>Fifa 23</gameName>
+                <gameCategory>Category:Sports (association football) Simulation</gameCategory> 
+                <gameDescription>A football game in which you control a team of 11 players, one player at a time with the same rules of a standard football game.</gameDescription>
+                <gameQuantity>400</gameQuantity>
+                <gamePrice>80</gamePrice>
+                <gameImage>FIFA 23.png</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-11</gameCode> 
+                <gameName>UFC 4</gameName>
+                <gameCategory>Category:Fighting/Sports</gameCategory> 
+                <gameDescription>A fighting game where you can use any current or retired MMA fighters to fight against online or computer. With the rules of a standard MMA match.</gameDescription>
+                <gameQuantity>230</gameQuantity>
+                <gamePrice>50</gamePrice>
+                <gameImage>UFC 4.jpg</gameImage>
+        </games>
+
+        <games>
+                <gameCode>#000-13</gameCode>
+                <gameName>Spiderman Miles Morales</gameName>
+                <gameCategory>Action-adventure</gameCategory>  
+                <gameDescription>An action game in which you play as Miles Morales and fight villains and comeplete local missions.</gameDescription>
+                <gameQuantity>120</gameQuantity>
+                <gamePrice>60</gamePrice>
+                <gameImage>SPIDERMAN.jpg</gameImage>
+        </games>
+        
+</product>
